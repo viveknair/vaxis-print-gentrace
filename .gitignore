@@ -1,0 +1,18 @@
+# Zig build artifacts
+zig-cache/
+zig-out/
+
+.zig-cache
+
+# Dependencies
+.gyro/
+deps/
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db 
